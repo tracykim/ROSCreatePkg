@@ -1,0 +1,8 @@
+prefix=/home/jinye/projects/catkin_test/devel
+
+Name: pkg_test
+Description: Description of pkg_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jinye/projects/catkin_test/devel/lib 
+Requires: 

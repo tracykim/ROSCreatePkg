@@ -1,0 +1,2 @@
+pkg_test
+-DCATKIN_DEVEL_PREFIX=/home/jinye/projects/catkin_test/devel -DCMAKE_INSTALL_PREFIX=/home/jinye/projects/catkin_test/install -G Unix Makefiles
